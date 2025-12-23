@@ -59,28 +59,6 @@ I'm Nadhif, an Informatics Engineering student at Nahdlatul Ulama Islamic Univer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ustadzCoding-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ustadzCoding-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ustadzCoding-dev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/ustadzCoding-dev)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
